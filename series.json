@@ -1,0 +1,18 @@
+[
+    {
+        "name":"Animal",
+    "image":"http://zegomovie.com/Uploads/vod/2024-01-26/65b340f368b27.jpg",
+    "episodes":[
+        "http://www.zegomovie.com/Videos/Animal23/index.m3u8",
+        "http://www.zegomovie.com/Videos/Animal23/index.m3u8"
+    ]
+    },
+    {
+        "name":"Animal",
+     "image":"http://zegomovie.com/Uploads/vod/2024-01-26/65b340f368b27.jpg",
+    "episodes":[
+        "http://www.zegomovie.com/Videos/Animal23/index.m3u8",
+        "http://www.zegomovie.com/Videos/Animal23/index.m3u8"
+    ]
+    }
+]
